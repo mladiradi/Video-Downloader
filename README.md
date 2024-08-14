@@ -3,7 +3,7 @@
 Тhis code is aimed at the possibility of downloading videos from the Internet spaces without having to use paid services that are offered by a number of sites.
 Applies references to some additional settings to enable the use of this code.
 
-№ Here's a detailed step-by-step guide on how to add ffmpeg to your system's PATH on Windows:
+# Here's a detailed step-by-step guide on how to add ffmpeg to your system's PATH on Windows:
 Step 1: Download and Extract ffmpeg
 
     Download ffmpeg:
