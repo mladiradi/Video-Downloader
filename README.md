@@ -7,7 +7,7 @@ Applies references to some additional settings to enable the use of this code.
 Step 1: Download and Extract ffmpeg
 
     Download ffmpeg:
-        Go to the official FFmpeg download page. [(https://ffmpeg.org/download.html)](url)
+        Go to the official FFmpeg download page. [FFmpeg](https://ffmpeg.org/download.html)
         Choose the Windows version and download the ZIP file.
 
     Extract the ZIP file:
