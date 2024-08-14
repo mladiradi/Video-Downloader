@@ -6,9 +6,9 @@ Applies references to some additional settings to enable the use of this code.
 # Here's a detailed step-by-step guide on how to add ffmpeg to your system's PATH on Windows:
 Step 1: Download and Extract ffmpeg
 
-    Download ffmpeg:
-        Go to the official FFmpeg download page: [FFmpeg](https://ffmpeg.org/download.html)
-        Choose the Windows version and download the ZIP file.
+Download ffmpeg:
+    Go to the official FFmpeg download page: [FFmpeg](https://ffmpeg.org/download.html)
+    Choose the Windows version and download the ZIP file.
 
     Extract the ZIP file:
         Locate the downloaded ZIP file (usually in your Downloads folder).
